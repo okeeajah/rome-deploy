@@ -90,7 +90,12 @@ SAVE FILE U CAN USE : CTRL + X + Y ( ENTER )
 
 Running bot :
 ```
-python3 bot.py jika eror run python3 main.py
+python3 bot.py 
+```
+jika eror
+
+```
+python3 main.py 
 ```
 
 # AFTER DONE , U CAN OUT SCREEN TO RUNNING 24 HOURS. USE 
